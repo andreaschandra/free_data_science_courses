@@ -60,3 +60,13 @@ Underconstruction
 - Feature Selection (Chi-Squared, Mutual Infomration)
 - Text Representation (Embedding, Word2Vec, Glove, FastText, ELMo)
 - Popular NLP Architecture
+
+### Deep Learning Applciations
+Underconstruction
+- Aerial Cactus Identification
+- Dog Breed
+- Natural Language Processing with Disaster Tweets
+- Rainforest Connection Species Audio Detection
+- 
+
+### Build Your Own Portfoliossssss for Fresh Graduates to Get a Job
