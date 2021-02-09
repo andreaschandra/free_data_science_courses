@@ -3,7 +3,9 @@
 By: Andreas Chandra
 
 ## Roadmap
+
 ### Fundamental
+
 - Python for Data Science
 - Data Analysis using Pandas Part 1
 - Data Analysis using Pandas Part 2
@@ -19,15 +21,18 @@ By: Andreas Chandra
 - Big Data Analysis using BigQuery
 
 ### Practical Statistics for Data Scientist
+
 Underconstruction
 
 ### Data Preprocessing
+
 - Label Encoder
 - OneHot Encoder
 - Feature Engineering
 
 ### Machine Learning Algorithms
-- Regression 
+
+- Regression
 - Tree Approach
 - Naive Bayes
 - Support Vector Machine
@@ -36,7 +41,25 @@ Underconstruction
 - Hierarchical Clustering
 - DBSCAN
 
+### Evaluation Metrics
+
+- MAE
+- MSE
+- MSLE
+- RMSE
+- MAPE
+- Confusion Matrix
+- Accuracy
+- Precision
+- Recall
+- F-Score
+- ROC AUC
+- Hamming Loss
+- Silhouette score
+- Elbow (Not sure)
+
 ### Deep Learning
+
 - Introduction to Deep Learning
 - Multilayer Perceptron
 - Convolutional Neural Network
@@ -47,6 +70,7 @@ Underconstruction
 - Loss Function (MSELoss, Binary Cross Entorpy, Cross Entropy)
 
 ### Computer Vision
+
 - Computer Vision - Research and Applications
 - Image Processing
 - Image Classification
@@ -54,6 +78,7 @@ Underconstruction
 - Popular Computer Vision Architecture
 
 ### Natural Language
+
 - Natural Language Processing - Research and Applications
 - Text Preprocessing (Cleansing, Tokenizing, Stemming, Lemmatizing, Spelling Correction)
 - Feature Extraction (Term Frequency, TF-IDF)
@@ -62,11 +87,13 @@ Underconstruction
 - Popular NLP Architecture
 
 ### Deep Learning Applciations
+
 Underconstruction
+
 - Aerial Cactus Identification
 - Dog Breed
 - Natural Language Processing with Disaster Tweets
 - Rainforest Connection Species Audio Detection
-- 
+-
 
 ### Build Your Own Portfoliossssss for Fresh Graduates to Get a Job
