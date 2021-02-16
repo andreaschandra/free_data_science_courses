@@ -22,7 +22,10 @@ By: Andreas Chandra
 
 ### Practical Statistics for Data Scientist
 
-Underconstruction
+- Introduction to Statistics
+- Descriptive Statistics
+- Data & Sampling Distributions
+- Statistical Experiments & Significant Testing
 
 ### Data Preprocessing
 
