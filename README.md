@@ -7,13 +7,12 @@ By: Andreas Chandra
 ### Fundamental
 
 - Python for Data Science
-- Data Analysis using Pandas Part 1
-- Data Analysis using Pandas Part 2
+- Data Manipulation using Pandas
 - Data Visualization using Matplotlib and Seaborn
+- Data Cleansing
 - Data Analysis and EDA Use Case 1
 - Data Analysis and EDA Use Case 2
 - Interactive Visualization using Dash / Plotly
-- Business Intelliegence using Tableau (Not Sure)
 - Introduction to Database Management System
 - Basic SQL for Data Analysis
 - Intermediate SQL for Data Analysis
