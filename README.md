@@ -9,7 +9,6 @@ By: Andreas Chandra
 - Python for Data Science
 - Data Manipulation using Pandas
 - Data Visualization using Matplotlib and Seaborn
-- Data Cleansing
 - Data Analysis and EDA Use Case 1
 - Data Analysis and EDA Use Case 2
 - Interactive Visualization using Dash / Plotly
@@ -26,7 +25,7 @@ By: Andreas Chandra
 - Data & Sampling Distributions
 - Statistical Experiments & Significant Testing
 
-### Data Preprocessing
+### Data Encoding and Enrichment
 
 - Label Encoder
 - OneHot Encoder
@@ -90,12 +89,9 @@ By: Andreas Chandra
 
 ### Deep Learning Applciations
 
-Underconstruction
-
 - Aerial Cactus Identification
 - Dog Breed
 - Natural Language Processing with Disaster Tweets
 - Rainforest Connection Species Audio Detection
--
 
-### Build Your Own Portfoliossssss for Fresh Graduates to Get a Job
+### Build Your Own Portfolios for Fresh Graduates to Get a Job
